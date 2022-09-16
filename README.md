@@ -1,7 +1,4 @@
-# Projeto desenvolvido para treinar a linguagem typescript com a bliblioteca do React Js. O cronometro de tarefas pode ser visto neste <a href="http://cronometro-tarefas.surge.sh/">link</a>. 
-# No projeto até sua finalização, foram vistos:  
-
-
+# Projeto desenvolvido para treinar a linguagem typescript com a bliblioteca do React Js.<br/>  O cronometro de tarefas pode ser visto neste <a href="http://cronometro-tarefas.surge.sh/">link</a>. <br/> No projeto até sua finalização, foram vistos: 
 
 
 ## Configurar o seu ambiente para rodar o projeto;
