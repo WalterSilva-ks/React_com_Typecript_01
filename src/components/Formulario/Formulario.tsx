@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { IterfaceTarefa } from '../../types/InterfaceTarfefa';
+import { IterfaceTarefa } from '../../types/InterfaceTarefa';
 import Botao from '../Botao/Botao';
 import style from './Formulario.module.scss';
 import { v4 as uuidv4 } from 'uuid'
